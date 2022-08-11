@@ -1,0 +1,19 @@
+### IntelliJ ###
+.idea/ 
+
+### SBT ###
+dist/*
+target/
+cache/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+.bsp/
+
+### Scala ###
+*.class
+*.log
